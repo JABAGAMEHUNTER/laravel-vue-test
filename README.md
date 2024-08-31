@@ -17,4 +17,4 @@ No entanto, a mistura do frontend acontece usando blade.php e vue.js juntos.
 1. Instale as dependencias do composer: `composer install` 
 2. Instale as dependencias do npm: `npm install`
 1. Execute o projeto laravel: `php artisan serve` 
-2. Execute o projeto vuejs: `npm  run dev`
+2. Execute o projeto vuejs: `npm run dev`
